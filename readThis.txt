@@ -1,0 +1,3 @@
+Hi and hello 
+This is a text file to practice bascis of command line and git (bash).
+I am heappy to do this
